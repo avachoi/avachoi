@@ -1,6 +1,7 @@
 About Me
 My name is Ava, a software engineer from New York.
 
+<div align="center">
 <a href="https://avachoi.github.io/portfolio/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
@@ -10,6 +11,7 @@ My name is Ava, a software engineer from New York.
 <a href="mailto:avachoi12@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
+ </div>
 
 <a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
