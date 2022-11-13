@@ -1,7 +1,7 @@
 About Me
 My name is Ava, a software engineer from New York.
 
-<a href="https://junjo.dev/">
+<a href="https://avachoi.github.io/portfolio/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 
