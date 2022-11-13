@@ -1,4 +1,9 @@
-### Hi there 👋
+About Me
+My name is Ava, a software engineer from New York.
+
+![image](https://user-images.githubusercontent.com/72422987/201550689-4f5b17db-8202-4c48-9273-26c9450ad4e4.png)
+
+<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
 
 <!--
 **avachoi/avachoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
