@@ -1,4 +1,4 @@
-About Me
+**About Me**
 My name is Ava, a software engineer from New York.
 
 <div align="center">
