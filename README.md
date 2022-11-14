@@ -1,6 +1,6 @@
 **About Me**
 <div>
-My name is Ava, a software engineer from New York.
+Hi, I am Ava, a software engineer from New York.
 </div>
 
 <div align="center">
