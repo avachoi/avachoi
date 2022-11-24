@@ -1,6 +1,6 @@
 **About Me**
 <div>
-Hi, I am Ava, a software engineer from New York.
+Hi, I am Ava, a Frontend Engineer specializing in modern JavaScript stack with experience in the latest web development technologies including React library. I am always on the lookout for Software projects to contribute and I am in love working on the web applications that will enhance my knowledge and skills about software engineering in an Agile fashion. 
 </div>
 
 <div align="center">
