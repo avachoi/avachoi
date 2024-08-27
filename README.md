@@ -1,6 +1,6 @@
 **About Me**
 <div>
-Hi, I am Ava, a Frontend Engineer specializing in modern JavaScript stack with experience in the latest web development technologies including React library. I am always on the lookout for Software projects to contribute and I am in love working on the web applications that will enhance my knowledge and skills about software engineering in an Agile fashion. 
+I am an experienced Software Engineer proficient in JavaScript, React.js, Node.js, and more. I have contributed to impactful projects, including Cov19NYC, a full-stack web application for tracking COVID-19 cases. At Outlier, I demonstrated expertise in AI training and effective collaboration. As a certified AWS Cloud Practitioner, I continuously advance my skills in cloud computing and software engineering. Passionate about leveraging technology to solve real-world problems, I am always eager to embrace new challenges. Let’s connect and explore opportunities to innovate together.
 </div>
 
 <div align="center">
