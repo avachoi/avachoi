@@ -4,7 +4,7 @@ I am an experienced Software Engineer proficient in JavaScript, React.js, Node.j
 </div>
 
 <div align="center">
-<!-- <a href="https://avachoi.github.io/portfolio/"> -->
+<a href="https://avachoi.github.io/portfolio/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/ava-jeongyeonchoi">
